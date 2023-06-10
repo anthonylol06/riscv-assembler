@@ -1,5 +1,5 @@
 # RISC-V Assembler
-Credit to [@ChenBai] (http://github.com/baichen318)
+*Credit to [@Chen BAI](http://github.com/baichen318)*
 
 ## RV32I assembler with 25 instructions in `asm.c` as follows
 * Integer Register-Immediate Instructions:
@@ -17,4 +17,4 @@ Credit to [@ChenBai] (http://github.com/baichen318)
 ```
 $ make validate
 ```
-Then, it will show if the ```asm.c``` passes the benchmarks
+Then, it will show if the ```asm.c``` passes the benchmarks.
